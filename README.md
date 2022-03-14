@@ -2,6 +2,7 @@
 A Personal Academic Bibiliography of "Security in Federated Learning"
 
 ## Anomaly Detection
+- [Abnormal Client Behavior Detection in Federated Learning](https://arxiv.org/pdf/1910.09933.pdf) - NeurIPS FL Workshop'19
 
 ## Backdoor Attacks
 
@@ -9,7 +10,7 @@ A Personal Academic Bibiliography of "Security in Federated Learning"
 
 ## Data Poisoning
 - [Data Poisoning Attacks Against Federated Learning Systems](https://arxiv.org/pdf/2007.08432.pdf) - ESORICS'20
-- [Data Poisoning Attacks on Federated Machine Learning](https://arxiv.org/pdf/2004.10020.pdf) - IoTJ'21
+- [Data Poisoning Attacks on Federated Machine Learning](https://arxiv.org/pdf/2004.10020.pdf) - IEEE IoTJ'21
 
 ## Evasion Attacks
 
