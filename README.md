@@ -32,7 +32,7 @@ A Personal Academic Bibiliography of "Security in Federated Learning"
 
 ## Model Poisoning
 - [Analyzing Federated Learning through an Adversarial Lens](https://arxiv.org/pdf/1811.12470.pdf) - ICML'19
-- [SparseFed: Mitigating Model Poisoning Attacks in Federated Learning with Sparsification](https://arxiv.org/pdf/2112.06274.pdf) - AISTATs'22
+- [SparseFed: Mitigating Model Poisoning Attacks in Federated Learning with Sparsification](https://arxiv.org/pdf/2112.06274.pdf) - AISTATS'22
 
 ## Sybil Attack
 - [The Limitations of Federated Learning in Sybil Settings](https://www.usenix.org/system/files/raid20-fung.pdf) - RAID'20
